@@ -1,0 +1,30 @@
+body
+{
+   background-color:#D5EEBB; 
+}
+h1
+{
+    color:#6E85B2;
+}
+h2
+{
+    color: #99154E;
+}
+
+.skills
+{
+    color: #FF2442;
+    font-style: italic;
+}
+h3
+{
+    color: #297F87;
+}
+a:hover
+{
+    color: cornflowerblue;
+}
+.me:hover
+{
+    background-color: white;
+}
